@@ -2,7 +2,7 @@
   Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> , I'm Mridul Katara 💻!
 </h2>  
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=451CF3&random=false&width=435&lines=Hello+Folks...;I'm+Mridul+Katara;A+Full-Stack+Web+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=451CF3&random=false&width=435&lines=Hello+Folks...;A+Full-Stack+Web+Developer)](https://git.io/typing-svg)
 
 
 
@@ -23,7 +23,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tushit99&label=Profile%20views&color=0e75b6&style=flat" alt="tushit99" /> </p>
 
    <p align="center" color:"red"> 
-          <img src="https://readme-typing-svg.demolab.com/?lines=hi! My self Anjali Sinha 🏽; I am Developer;Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000">
+          <img src="https://readme-typing-svg.demolab.com/?lines=Hey! I'm Mridul Katara; I am Developer;Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000">
       </p>
       
 <img width="100%" height="3px" src="https://www.animatedimages.org/data/media/562/animated-line-image-0387.gif">
