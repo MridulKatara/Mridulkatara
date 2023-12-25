@@ -115,7 +115,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?logo=GitHub&logoColor=white)](https://github.com/Mridulkatara)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/mridul.katara/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mridul-katara-a1a625151/)
-[![Portfolio](https://drive.google.com/file/d/1NdrU7mbNH55DK26X09ZRTDPNJIv0A1Pi/view?usp=sharing)(https://mridulkatara.github.io/)]
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mridulkatara&theme=github_dark" />
 
