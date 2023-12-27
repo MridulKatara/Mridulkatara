@@ -51,7 +51,7 @@
 
 - ⚡ Fun Fact: Imagination is more important than knowledge 
 
-- 💬 Have a look at my [Resume](https://drive.google.com/file/d/1-rb8AeCMc1zIsTaMUJFGRBolX5_He905/view?usp=sharing ) and [Portfolio](https://mridulkatara.github.io/) 
+- 💬 Have a look at my [Resume](https://drive.google.com/file/d/1jEUNbVKsNk4wYBTqLTyRXK4-jDJQWwM-/view?usp=sharing) and [Portfolio](https://mridulkatara.github.io/) 
 
 </p>
 
